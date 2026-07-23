@@ -1,0 +1,34 @@
+# --- Environment / Secrets (CRITICAL) ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- Python Virtual Environment ---
+.venv/
+venv/
+ENV/
+env/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# --- Streamlit Internal Caches ---
+.streamlit/
+
+# --- Python Compiled Cache Files ---
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Database / Local Cache Files ---
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+Thumbs.db
+
+CHAT.md
+README_old.md

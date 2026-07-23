@@ -1,0 +1,7 @@
+streamlit
+pandas
+pyodbc
+openpyxl
+google-genai
+python-dotenv
+intuit-oauth
