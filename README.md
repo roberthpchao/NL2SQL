@@ -207,13 +207,15 @@ Execute the local ETL script to construct schema and insert records into local S
 python sync_to_mssql.py
 ```
 
+![Dashboard Screenshot](images/172544.png)
+
 ### 3. Launch Offline Natural Language Interface
 Launch the Streamlit interface connected to local Ollama (Llama 3 / DeepSeek-R1):
 ```powershell
 streamlit run app_local.py
 ```
 
-<!-- SCREENSHOT_PLACEHOLDER: Local Stack Architecture & Offline Streamlit Query -->
+![Dashboard Screenshot](images/135934.png)
 
 ---
 
@@ -245,7 +247,7 @@ Fire up the multi-stack cloud dashboard powered by Google Gemini AI:
 streamlit run app_cloud.py
 ```
 
-<!-- SCREENSHOT_PLACEHOLDER: Azure Cloud Dashboard UI & Gemini Query Execution -->
+![Dashboard Screenshot](images/150257.png)
 
 ---
 
