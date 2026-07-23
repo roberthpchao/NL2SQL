@@ -215,7 +215,7 @@ Launch the Streamlit interface connected to local Ollama (Llama 3 / DeepSeek-R1)
 streamlit run app_local.py
 ```
 
-![Dashboard Screenshot](images/135934.png)
+![Dashboard Screenshot](images/145934.png)
 
 ---
 
