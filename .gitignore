@@ -4,6 +4,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
+tokens.env
 
 # --- Python Virtual Environment ---
 .venv/
@@ -32,3 +33,4 @@ Thumbs.db
 
 CHAT.md
 README_old.md
+create_activate_venv.txt
